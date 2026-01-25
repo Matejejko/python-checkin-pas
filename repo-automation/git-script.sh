@@ -29,7 +29,9 @@ ls -la
 pwd
 ./skript.sh
 
+current_branch="$(git branch | grep \* | awk '{print $2}')"
 
+echo "ur current branch is $current_branch"
 
 
 echo "--end of script--"
