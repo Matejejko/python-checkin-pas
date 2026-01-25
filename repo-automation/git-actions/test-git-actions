@@ -1,0 +1,9 @@
+#!/bin/bash
+
+set -e
+
+./make-changes.sh
+./push-changes.sh
+./fetch-changes.sh
+
+echo "vsetky funkcie idu"
