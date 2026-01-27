@@ -1,0 +1,10 @@
+[2025-10-09 08:23:15] INFO  - Starting system check
+[2025-10-09 08:23:16] INFO  - Loading configuration
+[2025-10-09 08:23:16] WARNING - Missing optional module: bluetooth
+[2025-10-09 08:23:17] INFO  - Network connection established
+[2025-10-09 08:23:18] ERROR - Disk space critically low
+[2025-10-09 08:23:20] INFO  - Attempting cleanup
+[2025-10-09 08:23:21] ERROR - Cleanup failed
+[2025-10-09 08:23:22] WARNING - Memory usage high
+[2025-10-09 08:23:25] INFO  - Restarting background service
+[2025-10-09 08:23:27] INFO  - System check finished successfully

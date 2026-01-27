@@ -1,0 +1,7 @@
+Peter je student a ma 15 rokov.
+Adam je student a ma 18 rokov.
+Feri je student a ma 24 rokov.
+Ondrej je farmar a ma 35 rokov.
+Pali je nezamestnany a ma 25 rokov.
+
+ 
